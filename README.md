@@ -11,7 +11,7 @@ It is said that you can build a new habit by doing something for 21 days in a ro
 This project is used by the following companies:
 
 - Day 1  : Introduction to Python
-- Day 2  : Variable
+- Day 2  : Keywords & Variable
 - Day 3  : Data Type
 - Day 4  : Operator
 - Day 5  : String
