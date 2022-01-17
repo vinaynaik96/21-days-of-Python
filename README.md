@@ -8,7 +8,7 @@ It is said that you can build a new habit by doing something for 21 days in a ro
 
 ## Topics
 
-This project is used by the following companies:
+This learning would cover following topic :
 
 - Day 1  : Introduction to Python
 - Day 2  : Keywords & Variable
