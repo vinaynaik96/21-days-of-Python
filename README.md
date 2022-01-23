@@ -18,10 +18,11 @@ This learning would cover following topic :
 - Day 6  : List - Basic
 - Day 7  : List - Advance Operation
 - Day 8  : List Assignement
-- Day 9  : Set
-- Day 10 : Set - Advance Operation
-- Day 11 : Dictionary
-- Day 12 : Coming Soon
+- Day 9  : Tuple
+- Day 10  : Set
+- Day 11 : Set - Advance Operation
+- Day 12 : Dictionary
+- Day 13 : Coming Soon
      .
      .
      .
