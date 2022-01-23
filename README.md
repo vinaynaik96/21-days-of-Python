@@ -17,10 +17,11 @@ This learning would cover following topic :
 - Day 5  : String
 - Day 6  : List - Basic
 - Day 7  : List - Advance Operation
-- Day 8  : Tuple
-- Day 9  : Dictionary
-- Day 10 : Set
-- Day 11 : Coming Soon..
+- Day 8  : List Assignement
+- Day 9  : Set
+- Day 10 : Set - Advance Operation
+- Day 11 : Dictionary
+- Day 12 : Coming Soon
      .
      .
      .
