@@ -22,7 +22,8 @@ This learning would cover following topic :
 - Day 10  : Set
 - Day 11 : Set - Advance Operation
 - Day 12 : Dictionary
-- Day 13 : Coming Soon
+- Day 13 : Conditional Statements
+- Day 14 : Coming Soon
      .
      .
      .
